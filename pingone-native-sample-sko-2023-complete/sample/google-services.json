@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "243919019816",
+    "project_id": "shocard-fecd1",
+    "storage_bucket": "shocard-fecd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243919019816:android:c95aa7cc52dc406d29fa1d",
+        "android_client_info": {
+          "package_name": "com.pingidentity.pingone.sample.sko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243919019816-bdvablnd72qajdfih56f1qtjqmphmo0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_bZkMCTt38d0m_tlQ0DZKG8mtgwl11o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243919019816-bdvablnd72qajdfih56f1qtjqmphmo0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243919019816:android:95f9269bbadfd9a429fa1d",
+        "android_client_info": {
+          "package_name": "com.pingidentity.shocard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243919019816-bdvablnd72qajdfih56f1qtjqmphmo0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_bZkMCTt38d0m_tlQ0DZKG8mtgwl11o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243919019816-bdvablnd72qajdfih56f1qtjqmphmo0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
